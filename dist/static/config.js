@@ -4,7 +4,7 @@ window.INIS = {
     api: 'https://admin.blog.wyblog1.tk/api',
 
     // 后端开启token验证后，需要将token填写到此处
-    token: '123456',
+    token: '5ca0a41ebea43811270cf01e1a494557',
 
     // CDN配置，用于加速静态资源
     // cdn: 'https://cdn.inis.cc/theme/default/',
