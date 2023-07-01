@@ -1,7 +1,7 @@
 window.INIS = {
 
     // API地址 - 填写后端域名
-    api: '//admin.blog.wyblog1.tk/api/comm/token/',
+    api: 'https://admin.blog.wyblog1.tk/api/',
 
     // 后端开启token验证后，需要将token填写到此处
     token: 'cfc0c20e140659668034d1de1ea39e2b',
