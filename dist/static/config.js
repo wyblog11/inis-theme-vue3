@@ -1,10 +1,10 @@
 window.INIS = {
 
     // API地址 - 填写后端域名
-    api: 'https://admin.blog.wyblog1.tk/api/comm/token',
+    api: 'https://admin.blog.wyblog1.tk/api/comm/token/',
 
     // 后端开启token验证后，需要将token填写到此处
-    token: '5ca0a41ebea43811270cf01e1a494557',
+    token: 'cfc0c20e140659668034d1de1ea39e2b',
 
     // CDN配置，用于加速静态资源
     // cdn: 'https://cdn.inis.cc/theme/default/',
